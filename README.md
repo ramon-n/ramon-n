@@ -3,6 +3,7 @@
 
 - 🔭 Hoje trabalhado com Redes de computadores, mas com foco em Banco de Dados 
 - 🌱 Estudando banco de dados, SQL Server, MYSQL, Power BI. 
+- 💻 Você pode me manda um e-mail em Ramon_19x@hotmail.com
 
 
 <div>

@@ -18,7 +18,7 @@
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!-- <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"> -->
-  <img align="right" alt-"Ramon-yoda" src=https://cdn.discordapp.com/attachments/939638792233574451/1092199631569563839/picasion.com_ee117a13f4c7134262aac2b0e7035d11.gif>
+  <img align="right" alt-"Ramon-yoda" src=https://cdn.discordapp.com/attachments/939638792233574451/1092213148049756200/picasion.com_0f0809fa3285e1215473b93d1e9deed9.gif>
 </div>
   
   ##
